@@ -3602,7 +3602,22 @@
         "local weather",
         "local weather forecast"
       ]
-    }
+    },
+    {
+		  "name": "STT Swiss Transport Timetable",
+		  "thumb": "stt/thumb.png", 
+		  "desc": "Swiss Transport Timetable is the chrome app for querying SBB timetables, allowing you to quickly and easily plan your journey from your tablet or desktop",
+		  "url": "https://chrome.google.com/webstore/detail/swiss-transport-timetable/nkfcjgppdegkhfghbkenpabeabjchepj", 
+		  "info": "http://lambda-it.ch/en/stt/stt-chrome.aspx", 
+		  "submitter": "Lambda-IT", 
+		  "submissionDate": "2014-12-04", 
+		  "tags": [
+		    "Production",
+		    "Travel", "Timetable",
+		    "Animations", "Local Storage", "Transport Api",
+		    "jQuery", "bootstrap","lodash"    
+		  ]
+		}
 
   ]
 }
